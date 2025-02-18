@@ -395,7 +395,8 @@ button {
     content: '';
     width: 80px;
     height: 6px;
-    background-color: #ffd6e1;
+    /* background-color: #ffd6e1; */
+    background-color: #d8a266;
     bottom: 20px;
     right: 0px;
     border-radius: 4px;
@@ -625,7 +626,8 @@ button {
     content: '';
     width: 80px;
     height: 6px;
-    background-color: #ffd6e1;
+    /* background-color: #ffd6e1; */
+    background-color: #d8a266;
     bottom: 25px;
     right: 160px;
     border-radius: 4px;
@@ -648,7 +650,8 @@ button {
 .services_box {
     width: 100%;
     float: left;
-    border: 1px solid #fc9cc8;
+    /* border: 1px solid #fc9cc8; */
+    border: 1px solid #d8a266;
     padding: 20px 30px;
     height: auto;
 }
