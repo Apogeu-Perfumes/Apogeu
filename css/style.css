@@ -609,7 +609,8 @@ button {
 .services_section {
     width: 100%;
     float: left;
-    padding: 90px 0px 0px 0px;
+    /* padding: 90px 0px 0px 0px; */
+    padding: 90px 0px 50px 0px;
     position: relative;
 }
 
@@ -1080,6 +1081,10 @@ textarea#comment.update_mail::placeholder {
     margin-top: 25%;
 }
 
+.apogeu_about{
+    display: none;
+}
+
 /* ABA INICIO */
 .texto_inicio{
     padding-top: 25px;
@@ -1104,6 +1109,11 @@ textarea#comment.update_mail::placeholder {
     margin: 30px 0px 0px 70px;
 }
 
+.emcima:hover{
+    font-size: 18px;
+    color: #d8a266;
+}
+
 @media (max-width: 450px ){
     .imagem_per{
         display: none;
@@ -1125,5 +1135,10 @@ textarea#comment.update_mail::placeholder {
         margin: 15px;
     }
 
+    .img_contato{
+        width: 200px;
+        height: 200px;
+
+    }
     
 }
