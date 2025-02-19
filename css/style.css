@@ -1098,6 +1098,11 @@ textarea#comment.update_mail::placeholder {
     justify-content: space-between;
 }
 
+.img_contato{
+    width: 450px;
+    height: 450px;
+    margin: 30px 0px 0px 70px;
+}
 
 @media (max-width: 450px ){
     .imagem_per{
@@ -1118,11 +1123,6 @@ textarea#comment.update_mail::placeholder {
 
     .location_text li{
         margin: 15px;
-    }
-
-    .caixa{
-        margin: 15px;
-        max-width: 90%;
     }
 
     
